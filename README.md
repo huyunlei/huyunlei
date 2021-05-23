@@ -8,7 +8,7 @@
 
 <p>
     
-<img src="https://img.shieldsio/badge/少数派-spencerwwoo-da282a?style=flat-square&logo=Python&logoColor=white"/>   
+<img src="https://img.shieldsio/badge/少数派-spencerwwoo-da282a"/>   
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
