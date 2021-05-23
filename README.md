@@ -1,6 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/57059809/119258140-04fff200-bbfb-11eb-85c3-1daaa2dff039.gif" width = "400" height = "300" alt="" align=center />  
 * 👨‍💻 211小硕, 工作 with computer， Interested in 新事物.   
+<br>
 * 🎮  现实沉默不语，峡谷重拳出击 哈哈哈.
 
 ### Languages and Skills
