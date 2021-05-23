@@ -1,7 +1,7 @@
 
 <!-- gif动图 -->
 <img src="https://user-images.githubusercontent.com/57059809/119258140-04fff200-bbfb-11eb-85c3-1daaa2dff039.gif" width = "400" height = "300" alt="" align=center /> 
-* 👨‍💻 211小硕, 工作 with computer， Interested in 新事物.   
+* 👨‍💻 工作 with computer， Interested in 新事物.   
 <br>
 * 🎮  峡谷重拳出击 哈哈哈.
 
@@ -18,12 +18,14 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br>
 
+    
+<img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-square&logo=Uniapp%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Qt-00599C?style=flat-square&logo=Qt%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C4D-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
+
+
 <br>
     
  
