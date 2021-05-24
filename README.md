@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <br>
 
-    
+
+<img src="https://img.shields.io/badge/-MCU-3776AB?style=flat-square&logo=MCU&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-square&logo=Uniapp%2B%2B&logoColor=white"/>
