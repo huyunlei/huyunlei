@@ -8,7 +8,7 @@
 
 <!-- 语言技能 -->
   　 　　**Languages and Skills**
-<p> 
+
  　 　 　 　<img src="https://img.shields.io/badge/-MCU-3776AB?style=flat-square&logo=MCU&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
@@ -35,4 +35,4 @@
 <img src="https://img.shields.io/badge/-Vim-1572B6?style=flat-square&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-</p>
+
