@@ -6,8 +6,8 @@
  　 　* 🎮  王者荣耀微信区  3Q小队  开黑啊 
 
 
- 　 　<!-- 语言技能 -->
- 　 　### Languages and Skills
+<!-- 语言技能 -->
+### Languages and Skills
 
  　 　<p> 
  　 　<img src="https://img.shields.io/badge/-MCU-3776AB?style=flat-square&logo=MCU&logoColor=white"/>
