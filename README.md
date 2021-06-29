@@ -24,7 +24,7 @@
  
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI-092E20?style=flat-square&logo=FastAPI&logoColor=white"/>
+ 　 　 　 　<img src="https://img.shields.io/badge/-FastAPI-092E20?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Flask-092E20?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt&logoColor=white"/>
