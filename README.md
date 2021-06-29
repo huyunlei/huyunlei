@@ -8,16 +8,14 @@
 
 <!-- 语言技能 -->
 ### Languages and Skills
-
- 　 　<p> 
- 　 　<img src="https://img.shields.io/badge/-MCU-3776AB?style=flat-square&logo=MCU&logoColor=white"/>
- 　 　<img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
- 　 　<img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
- 　 　<img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-square&logo=Uniapp%2B%2B&logoColor=white"/>
- 　 　<img src="https://img.shields.io/badge/-Qt-00599C?style=flat-square&logo=Qt%2B%2B&logoColor=white"/>
- 　 　<img src="https://img.shields.io/badge/-C4D-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
- 　 　
- 　 　<br>
+<p> 
+<img src="https://img.shields.io/badge/-MCU-3776AB?style=flat-square&logo=MCU&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-square&logo=Uniapp%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Qt-00599C?style=flat-square&logo=Qt%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C4D-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/> 　
+<br>
     
     
  　 　<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
