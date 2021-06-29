@@ -2,8 +2,8 @@
  　 　 　 　 　 　 　<!-- gif动图 -->
  　 　  　 　 　 　　<img src="https://user-images.githubusercontent.com/57059809/119258140-04fff200-bbfb-11eb-85c3-1daaa2dff039.gif" width = "400" height = "300" alt="" align=center /> 
     
- 　 　* 👨‍💻 工作 with computer， Interested in 新事物.   
- 　 　* 🎮  王者荣耀微信区  3Q小队  开黑啊 
+ 　* 👨‍💻 工作 with computer， Interested in 新事物.   
+ 　* 🎮  王者荣耀微信区  3Q小队  开黑啊 
 
 
 <!-- 语言技能 -->
