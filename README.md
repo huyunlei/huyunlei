@@ -2,8 +2,8 @@
  　 　 　 　 　 　 　<!-- gif动图 -->
  　 　  　 　 　 　　<img src="https://user-images.githubusercontent.com/57059809/119258140-04fff200-bbfb-11eb-85c3-1daaa2dff039.gif" width = "400" height = "300" alt="" align=center /> 
     
- 　 　* 👨‍💻 工作 with computer， Interested in 新事物.   
-  　　* 🎮  王者荣耀微信区  3Q小队  开黑啊 
+　　　* 👨‍💻 工作 with computer， Interested in 新事物.   
+　　　* 🎮  王者荣耀微信区  3Q小队  开黑啊 
 
 
 <!-- 语言技能 -->
@@ -34,15 +34,3 @@
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 </p>
-
-
- 　 　<b>
-  　 　   <image src="https://github-readme-stats.vercel.app/api?username=huyunlei&show_icons=true&theme=tokyonight" width=400>
-   　 　  </image>   
- 　 　</b>
- 　 　<b>
-    　 　 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyunlei&layout=compact&theme=tokyonight&hide=html" width=400>
-    　 　 </image>  
- 　 　</b>  
- 　 　<image src="https://github-profile-trophy.vercel.app/?username=huyunlei&theme=dracula"/>
- 　 　<br></br>
