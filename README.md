@@ -1,7 +1,5 @@
  👨‍💻 工作 with computer， Interested in 新事物.   
 
-<!-- 语言技能 -->
-**Languages and Skills**
 <br>
 <br>
 <img src="https://img.shields.io/badge/-MCU-3776AB?style=flat-square&logo=MCU&logoColor=white"/>
