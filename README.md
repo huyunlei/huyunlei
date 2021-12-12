@@ -1,7 +1,7 @@
 
 
     
-　　　* 👨‍💻 工作 with computer， Interested in 新事物.   
+* 👨‍💻 工作 with computer， Interested in 新事物.   
 
 
 <!-- 语言技能 -->
