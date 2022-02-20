@@ -8,6 +8,7 @@ Working with computer
 <br>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TensorFlow-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Tensorrt-150458?style=flat-square&logo=Tensorrt&logoColor=white"/>
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <br>
