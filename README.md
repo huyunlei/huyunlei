@@ -1,4 +1,4 @@
-Working with computer  
+感兴趣的方向：自动化、嵌入式、物联网、人工智能  
 <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
