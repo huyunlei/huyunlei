@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FastAPI-092E20?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Flask-092E20?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
 
