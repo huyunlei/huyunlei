@@ -18,8 +18,7 @@
 <img src="https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-square&logo=Uniapp%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-FastAPI/Flask-092E20?style=flat-square&logo=FastAPI&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI/Flask/Django-092E20?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-42B883?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
 
