@@ -1,6 +1,6 @@
 Label 
 <br>
-<img src="https://img.shields.io/badge/-Python/MicorPython-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python/MicoPython-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS/TS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
