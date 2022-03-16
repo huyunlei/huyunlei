@@ -7,7 +7,6 @@ Label
 <img src="https://img.shields.io/badge/-TensorFlow-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Tensorrt-150458?style=flat-square&logo=Tensorrt&logoColor=white"/>
-<img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=Qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-Uniapp&logo=Uniapp%2B%2B&logoColor=white"/>
