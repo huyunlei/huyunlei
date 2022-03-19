@@ -1,11 +1,12 @@
 Label 
 <br>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-3776AB?style=flat-square&logo=C++&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TensorFlow-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Tensorrt-150458?style=flat-square&logo=Tensorrt&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
