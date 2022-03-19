@@ -1,7 +1,8 @@
 Label 
 <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-3776AB?style=flat-square&logo=Golang&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/-TensorFlow-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
