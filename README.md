@@ -1,4 +1,4 @@
-感兴趣的包括🍀：
+感兴趣的包括🍀：自动化，物联网，人工智能
 <br>
 <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=&logoColor=white"/>
