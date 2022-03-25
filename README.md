@@ -19,6 +19,5 @@
 <img src="https://img.shields.io/badge/-C4D-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
 <br>
 <!-- ?style 前边是颜色 -->
-<!-- <img src="https://img.shields.io/badge/-C++-3776AB?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=&logoColor=white"/> -->
+<!-- python c++ js go -->
 
