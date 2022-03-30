@@ -3,6 +3,8 @@
 <br>
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
@@ -15,7 +17,9 @@
 <img src="https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-Uniapp&logo=Uniapp%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue-42B883?style=flat-Vue&logo=Vue-dot-js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Flask / FastAPI-42B883?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Flask-42B883?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-42B883?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Gin-42B883?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-4297FF?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-5A77C4?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C4D-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
