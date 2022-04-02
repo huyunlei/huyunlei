@@ -3,6 +3,7 @@
 <br>
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
@@ -23,6 +24,4 @@
 <br>
 <!-- ?style 前边是颜色 -->
 <!-- python c++ js go-->
-<!-- <img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/-Go-f05b72?style=flat-square&logo=CPP&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/-Gin-42B883?style=flat-square&logo=&logoColor=white"/> -->
+
