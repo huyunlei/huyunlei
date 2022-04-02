@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/-Vue-42B883?style=flat-Vue&logo=Vue-dot-js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FastAPI-42B883?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Docker-4297FF?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ROS-5A77C4?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-5A77C4?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C4D-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
 <br>
