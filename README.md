@@ -26,3 +26,4 @@
 <!-- ?style 前边是颜色 -->
 <!-- python c++ js go-->
 
+美好的事情即将发生（Always believe that something wonderful is about to happen）
