@@ -1,8 +1,8 @@
 感兴趣的包括：自动化，物联网，人工智能，区块链，数据科学 🥕
 <br>
 <br>
-<img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=OpenCV&logoColor=white"/>
