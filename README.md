@@ -13,6 +13,7 @@
 <br>
 <img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Arduino-f05b72?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Qt-1572B6?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Uniapp-00599C?style=flat-Uniapp&logo=Uniapp%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue-42B883?style=flat-Vue&logo=Vue-dot-js&logoColor=white"/>
