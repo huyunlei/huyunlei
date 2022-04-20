@@ -1,4 +1,4 @@
-感兴趣的包括：自动化，物联网，人工智能，区块链，数据科学 🥕
+感兴趣的包括：自动化，物联网，人工智能，数据科学 🍀
 <br>
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
