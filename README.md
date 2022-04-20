@@ -1,4 +1,4 @@
-感兴趣的包括：自动化，物联网，人工智能，数据科学 🍀
+感兴趣的包括：自动化，物联网，人工智能，数据科学，美好的事情即将发生 ! 🍀
 <br>
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
@@ -27,4 +27,4 @@
 <!-- ?style 前边是颜色 -->
 <!-- python c++ js go-->
 
-美好的事情即将发生（Always believe that something wonderful is about to happen）
+
