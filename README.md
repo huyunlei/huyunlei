@@ -5,11 +5,8 @@
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-OpenCV-EE4C2C?style=flat-square&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Onnx-150458?style=flat-square&logo=Onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tensorrt-150458?style=flat-square&logo=TensorRT&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TensorFlow-EE4C2C?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NLP-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
