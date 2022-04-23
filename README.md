@@ -1,12 +1,14 @@
-感兴趣的包括：自动化，物联网，人工智能，数据科学，美好的事情即将发生 ! 🍀
+美好的事情即将发生 ! 🍀
 <br>
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NLP-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-自动化-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-物联网-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-人工智能-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-数据科学-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
@@ -20,6 +22,8 @@
 <img src="https://img.shields.io/badge/-Linux-5A77C4?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C4D-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Threejs-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
+<img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NLP-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
 <!-- ?style 前边是颜色 -->
 <!-- python c++ js go-->
