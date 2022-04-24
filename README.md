@@ -24,6 +24,9 @@
 <img src="https://img.shields.io/badge/-Threejs-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
 <img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NLP-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-DeepStream-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Triton-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ONNX-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
 <!-- ?style 前边是颜色 -->
 <!-- python c++ js go-->
