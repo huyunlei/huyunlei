@@ -29,10 +29,9 @@
 <img src="https://img.shields.io/badge/-Triton-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ONNX-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-React-A9A9A9?style=flat-square&logo=&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/-React-A9A9A9?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Django-A9A9A9?style=flat-square&logo=&logoColor=white"/>
-<br>
-<!-- ?style 前边是颜色 -->
-<!-- python c++ js go-->
+<br> -->
+
 
 
