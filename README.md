@@ -1,10 +1,5 @@
-美好的事情即将发生 ! 🍀
+加油 ! 🍀
 <br>
-<br>
-<img src="https://img.shields.io/badge/-自动化-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-物联网-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-人工智能-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-数据科学-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
@@ -38,6 +33,11 @@
 <img src="https://img.shields.io/badge/-ONNX-EE4C2C?style=flat-square&logo=&logoColor=white"/> -->
 
 
+<!-- 
+<img src="https://img.shields.io/badge/-自动化-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-物联网-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-人工智能-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-数据科学-f05b72?style=flat-square&logo=CPP&logoColor=white"/> -->
 
 
 
