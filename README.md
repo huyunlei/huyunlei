@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/-DeepStream-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Triton-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ONNX-EE4C2C?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
 
 
