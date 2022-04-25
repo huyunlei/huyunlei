@@ -1,4 +1,4 @@
-加油 ! 🍀
+自动化，物联网，人工智能，数据分析，加油 ! 🍀
 <br>
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
