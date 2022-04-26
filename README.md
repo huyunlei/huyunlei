@@ -1,17 +1,13 @@
-自动化，物联网，人工智能，数据分析，加油 ! 🍀
+自动化，物联网，人工智能，数据科学，加油 ! 🍀
 <br>
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/-MCU-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-IOT-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CV-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NLP-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Client-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Microservices-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
+
 
 <!-- <img src="https://img.shields.io/badge/-SolidWorks-E34F26?style=flat-square&logo=SolidWorks&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Altium-3776AB?style=flat-square&logo=Altium&logoColor=white"/>
