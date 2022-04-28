@@ -1,7 +1,7 @@
 
 <div align ="center">
   
-  ### 🍀 自动化，物联网，人工智能，数据科学🍀
+  #### 🍀 自动化，物联网，人工智能，数据科学，数字孪生🍀
   #### 加油 ! 
 
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
