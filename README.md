@@ -1,7 +1,8 @@
 
 <div align ="center">
+  
   #### 🍀 自动化，物联网，人工智能，数字孪生，网络安全 🍀
-<div align ="left">
+<!-- <div align ="left"> -->
 <img src="https://img.shields.io/badge/-语言：-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
