@@ -6,6 +6,9 @@
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-694d9f?style=flat-square&logo=CPP&logoColor=white"/>
+
+<br>
 <img src="https://img.shields.io/badge/-Client-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Microservices-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 
