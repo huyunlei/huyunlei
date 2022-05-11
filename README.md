@@ -5,14 +5,14 @@
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JS-D3D3D3?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Client-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Microservices-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/-Qt-42B883?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Uniapp-42B883?style=flat-Uniapp&logo=Uniapp%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue-42B883?style=flat-Vue&logo=Vue-dot-js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Electron-42B883?style=flat-Vue&logo=Vue-dot-js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Qt-42B883?style=flat-square&logo=&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-Flask-4297FF?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FastAPI-4297FF?style=flat-square&logo=&logoColor=white"/>
