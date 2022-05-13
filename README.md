@@ -5,7 +5,7 @@
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Go-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JS-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Client-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Microservices-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
@@ -22,6 +22,7 @@
 <br>
 <img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NLP-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-DeepStream-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Triton-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ONNX-EE4C2C?style=flat-square&logo=&logoColor=white"/>
