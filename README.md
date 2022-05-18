@@ -1,6 +1,6 @@
 
 
-AIOT，3D，Client，Microservices
+AIOT，3D，Client + Microservices
 <br>
 <br>
 <img src="https://img.shields.io/badge/-C++-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
