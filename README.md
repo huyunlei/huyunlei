@@ -6,7 +6,6 @@ AIOT，3D，Client + APIServer
 <img src="https://img.shields.io/badge/-C++-6a6da9?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Go-6a6da9?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NLP-EE4C2C?style=flat-square&logo=&logoColor=white"/>
