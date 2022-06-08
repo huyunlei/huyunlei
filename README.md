@@ -10,8 +10,8 @@ AIOT，Microservices
 <img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Qt-42B883?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Quasar/Uniapp-42B883?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Flask/FastAPI-42B883?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-42B883?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-EdgeX-42B883?style=flat-square&logo=C4D&logoColor=black"/>
 <br>
 <img src="https://img.shields.io/badge/-Arduino-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
