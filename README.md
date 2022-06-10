@@ -6,6 +6,7 @@ AIOT，Microservices
 <img src="https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-f05b72?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JS-87CEFA?style=flat-square&logo=CPP&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Go-CCCCCC?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
