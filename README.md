@@ -8,8 +8,8 @@ AIOT，Microservices
 <br>
 <img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Quasar-42B883?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Qt-42B883?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Quasar-42B883?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FastAPI-42B883?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-EdgeX-42B883?style=flat-square&logo=C4D&logoColor=black"/>
 <br>
