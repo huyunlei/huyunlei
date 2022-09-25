@@ -17,7 +17,6 @@ AIOT，Microservices
 <img src="https://img.shields.io/badge/-Quasar-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FastAPI-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-EdgeX-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Omniverse-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Docker-F7DF1E?style=flat-square&logo=&logoColor=white"/>
 <br>
 <!-- 自动化，物联网，人工智能，区块链，云原生 Severless --> 
