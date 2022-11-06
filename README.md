@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ROS-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-VSLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-IOT-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
