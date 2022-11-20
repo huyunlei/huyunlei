@@ -5,16 +5,14 @@
 <img src="https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=CPP&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-CV-EE4C2C?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ROS-EE4C2C?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VSLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-IOT-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AIOT-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/-Arduino-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ArduPilot-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Quasar-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-FastAPI-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-EdgeX-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/-Jetson-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <br>
 <!-- 自动化，物联网，人工智能，区块链，云原生 Severless 
