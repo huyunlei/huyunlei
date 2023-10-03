@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/-AIOT-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/-Vue/Quasar-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Quasar-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Django-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Mongo-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arduino-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
