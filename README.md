@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/badge/-Quasar-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Django-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Mongo-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Arduino-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SW/立创-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
 <br> 
