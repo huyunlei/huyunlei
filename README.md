@@ -21,3 +21,13 @@
 
 
 <img align="middle" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
+<div align=right>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-gray?style=flat-square&logo=web&link=https://velog.io/@manofbell)			](https://velog.io/@manofbell)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/jonginout/)			](https://github.com/jonginout/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonginkim/)](https://www.linkedin.com/in/jonginkim/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manofbell@gmail.com)](mailto:manofbell@gmail.com)
+
+</div>
