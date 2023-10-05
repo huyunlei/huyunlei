@@ -1,6 +1,8 @@
 
-越来越强，YYDS，Microservices
-自动化，物联网，人工智能，区块链，云原生 Severless 
+
+自动化，物联网，前端，后端，算法，YYDS  
+<br>
+<img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
 <br>
 <br>
 <img src="https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=CPP&logoColor=white"/>
