@@ -1,9 +1,22 @@
 
 
-自动化，物联网，前端，后端，算法，YYDS  
+
+
+<img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
+
+## 💕 About Me
+
+一名软件工程师，语言c++，python，js/ts，主要研究图像、声音、控制、应用开发领域，希望越来越厉害 
+自动化，物联网，前端，后端，算法，YYDS 
 <br>
 <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
 <br>
+
+[![University project](https://img.shields.io/badge/University%20of%20Economics-Varna-red)](https://www.ue-varna.bg/)
+
+## 🚀 Languages and Tools:
+ 
+YYDS 
 <br>
 <img src="https://img.shields.io/badge/-C++-1E90FF?style=flat-square&logo=CPP&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=CPP&logoColor=white"/>
@@ -14,7 +27,7 @@
 <br>
 <img src="https://img.shields.io/badge/-Quasar-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Django-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Mongo-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Crow-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SW/立创-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
 <br> 
@@ -32,14 +45,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manofbell@gmail.com)](mailto:manofbell@gmail.com)
 
 </div>
-
-
-<img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
-
-## 🙋‍♂️ About Me
-
-一名软件工程师，语言c++，python，js/ts，主要研究图像、声音、控制、应用开发领域，希望越来越厉害
-
-[![University project](https://img.shields.io/badge/University%20of%20Economics-Varna-red)](https://www.ue-varna.bg/)
-
-## 🚀 Languages and Tools:
