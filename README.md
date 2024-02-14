@@ -12,7 +12,7 @@
 <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
 <br>
 
-[![University project](https://img.shields.io/badge/University%20of%20Economics-Varna-red)](https://www.ue-varna.bg/)
+[![University project](https://img.shields.io/badge/University-red)]([https://www.ue-varna.bg/](https://www.hebut.edu.cn/))
 
 ## 🚀 Languages and Tools:
  
