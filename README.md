@@ -33,17 +33,12 @@
 
 </div>
 
-<h1 align="center">Hey there, my name is Jordan Jordanov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;PhD+Student;Software+Architect)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
 
 ## 🙋‍♂️ About Me
 
-I am currently working as a developer in a large software team, delivering features on a daily basis. My passions are the modern C# and JavaScript technologies.
-
-Additionally, I am assistant professor and a doctoral candidate in
+一名软件工程师，语言c++，python，js/ts，主要研究图像、声音、控制、应用开发领域，希望越来越厉害
 
 [![University project](https://img.shields.io/badge/University%20of%20Economics-Varna-red)](https://www.ue-varna.bg/)
 
