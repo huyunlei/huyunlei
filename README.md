@@ -6,8 +6,7 @@
 
 ## 💕 About Me
 
-一名软件工程师，语言c++，python，js/ts，主要研究图像、声音、控制、应用开发领域，希望越来越厉害 
-自动化，物联网，前端，后端，算法，YYDS 
+一名小白，语言c++，python，js/ts，主要研究自动化，物联网，前端，后端，算法，YYDS 
 <br>
 <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
 <br>
@@ -26,7 +25,7 @@ YYDS
 <img src="https://img.shields.io/badge/-SLAM-EE4C2C?style=flat-square&logo=&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/-Quasar-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
+<img src="https://img.shields.io/badge/-FastAPI-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Crow-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux-F7DF1E?style=flat-square&logo=Altium&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SW/立创-F7DF1E?style=flat-square&logo=C4D&logoColor=black"/>
