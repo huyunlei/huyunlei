@@ -6,7 +6,7 @@
 
 ## 💕 About Me
 
-一名小白，语言c++，python，js/ts，主要研究自动化，物联网，前端，后端，算法，YYDS 
+一名小白，自动化，物联网，前端，后端，算法，YYDS 
 <br>
 <img src="https://github.com/jjw0609/jjw0609/assets/58880985/33fa549f-e891-4fb5-919f-3aadc79ec78e" width="30" height="30">
 <br>
